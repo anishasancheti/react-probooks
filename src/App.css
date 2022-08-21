@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+}
+.header {
+  margin-top: 5px;
+  font-size: x-large;
+  font-weight: bold;
+  line-height: 50px;
+  text-align: center;
+  color: white;
+  background-color: green;
+  height: 50px;
+}
+
